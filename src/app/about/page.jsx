@@ -14,6 +14,7 @@ export default function About() {
                         <Image src={'/html.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/css.svg'}width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/javascript.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
+                        <Image src={'/Type.png'}  width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/sass.svg'}  width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/nodejs.svg'}  width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                     </div>
