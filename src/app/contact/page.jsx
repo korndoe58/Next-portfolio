@@ -46,7 +46,7 @@ const EmailRestAPI = () => {
   }
 
   return (
-    <div className="h-[calc(100vh-3rem)] w-full flex flex-col justify-start  py-7 px-5 gap-16 md:px-20 xl:h-[calc(100vh-6rem)]" >
+    <div className="h-[105vh] w-full flex flex-col justify-start  py-7 px-5 gap-16 md:px-20 xl:h-[calc(100vh-6rem)]" >
         {/* text container */}
         <div className=" flex flex-col gap-4 text-center">
             <h1 className='text-4xl text-center font-extrabold uppercase px-4 lg:text-5xl '>Contact</h1>
