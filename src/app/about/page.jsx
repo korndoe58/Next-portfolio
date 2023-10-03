@@ -8,9 +8,9 @@ export default function About() {
                 <h1 className="text-3xl font-extrabold uppercase px-4 lg:text-5xl lg:p-6">tech stack</h1>
             </div>
             <div className="backdrop-blur-sm bg-white/30  rounded-xl md:p-4">
-                <div className="flex flex-col gap-2  p-4   ">
+                <div className="flex flex-col gap-2  p-4 ">
                     <h1 className="text-xl font-semibold">Languages and Tools</h1>
-                    <div className="flex gap-4 lg:py-2">
+                    <div className="flex gap-4 lg:py-2 flex-wrap">
                         <Image src={'/html.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/css.svg'}width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/javascript.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
