@@ -31,7 +31,7 @@ export default function About() {
                     <div className="flex gap-4 lg:py-2">
                         <Image src={'/git.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/ill.svg'}width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
-                        <Image src={'/pho.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
+                        <Image src={'/Pho.svg'} width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/sql.svg'}  width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                         <Image src={'/postman-icon.webp'}  width={45} height={45} alt="html" className="hover:-translate-y-2 ease-out duration-300 "/>
                     </div>
