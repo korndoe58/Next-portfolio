@@ -46,7 +46,9 @@ export default function Work() {
                         <Link href={'https://github.com/korndoe58/ceramic-store'} target="blank">
                             <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Code<Image src={'/github.png'} alt="github" width={25} height={25} /></button>
                         </Link>
-                        {/* <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Live Demo<Image src={'/link.png'} alt="github" width={25} height={25} /></button> */}
+                        <Link href={'https://ceramic-store.vercel.app/'} target="blank">
+                            <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Live Demo<Image src={'/link.png'} alt="github" width={25} height={25} /></button>
+                        </Link>
                     </div>
                 </div>
             </div>
