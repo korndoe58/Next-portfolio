@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+
 
 export default function About() {
     return <div className="h-max w-full flex flex-col justify-around  py-6 px-5 gap-8 md:px-10 lg:px-20 lg:flex-row lg:h-[calc(100vh-3rem)]   " id="about">
