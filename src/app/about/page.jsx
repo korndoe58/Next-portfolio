@@ -58,6 +58,9 @@ export default function About() {
                 <h1 className="text-xl font-semibold">Economics Tutor</h1>
                 <p>As an Economics Tutor, I shared my knowledge and expertise, helping students grasp economic principles. I enjoyed simplifying complex concepts and fostering a deep </p>
             </div>
+            <div className="flex justify-center">
+                <Link href={'https://drive.google.com/u/0/uc?id=1Bv9A2X3dPv0ZwglwZRmzAaD9E_qhqjAe&export=download'} className="backdrop-blur-sm bg-white/30 h-max w-max text-lg p-4 rounded-lg">Download CV</Link>
+            </div>
 
 
         </div>
