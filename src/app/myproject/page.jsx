@@ -39,11 +39,12 @@ export default function Work() {
                     {/* tech */}
                     <div className="flex gap-2">
                         <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90"> Nextjs </h2>
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">TypeScript</h2>
                         <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">Tailwindcss</h2>
                     </div>
                     {/* button */}
                     <div className="flex gap-2">
-                        <Link href={'https://github.com/korndoe58/ceramic-store'} target="blank">
+                        <Link href={'https://github.com/korndoe58/full_stack_ceramic_ecommerce'} target="blank">
                             <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Code<Image src={'/github.png'} alt="github" width={25} height={25} /></button>
                         </Link>
                         <Link href={'https://ceramic-store.vercel.app/'} target="blank">
