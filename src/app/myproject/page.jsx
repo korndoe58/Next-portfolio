@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function Work() {
-    return <div className="h-max w-full flex flex-col justify-start py-4   px-5 gap-4 md:px-10 lg:px-20  xl:gap-16 xl:h-[calc(100vh-6rem)] ">
+    return <div className="h-max w-full flex flex-col justify-start py-4   px-5 gap-4 md:px-10 lg:px-20  xl:gap-16  ">
         {/* head */}
         <div className="text-center">
             <h1 className="text-4xl  font-extrabold p-4 lg:text-5xl ">MY PROJECT</h1>
