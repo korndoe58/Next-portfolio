@@ -76,7 +76,7 @@ export default function Work() {
             </div>
             {/* project4 */}
             <div className="w-full h-[40vh] relative md:w-[48%] xl:w-[32%] hover:-translate-y-2 ease-out duration-300 ">
-                <Image src={'/work4.PNG'} alt="project" fill style={{borderRadius:'1rem'}} sizes="(max-width: 768px) 100vw" className=" object-cover"/>
+                <Image src={'/work4.png'} alt="project" fill style={{borderRadius:'1rem'}} sizes="(max-width: 768px) 100vw" className=" object-cover"/>
                 <div className=" absolute bg-white/80 bottom-0 rounded-b-2xl p-4 w-full flex flex-col gap-2 ">
                     <h1 className=" uppercase font-bold">e-commerce website</h1>
                     {/* tech */}
