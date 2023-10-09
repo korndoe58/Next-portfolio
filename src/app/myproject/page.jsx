@@ -74,7 +74,30 @@ export default function Work() {
                     </div>
                 </div>
             </div>
-            
+            {/* project4 */}
+            <div className="w-full h-[40vh] relative md:w-[48%] xl:w-[32%] hover:-translate-y-2 ease-out duration-300 ">
+                <Image src={'/work4.PNG'} alt="project" fill style={{borderRadius:'1rem'}} sizes="(max-width: 768px) 100vw" className=" object-cover"/>
+                <div className=" absolute bg-white/80 bottom-0 rounded-b-2xl p-4 w-full flex flex-col gap-2 ">
+                    <h1 className=" uppercase font-bold">e-commerce website</h1>
+                    {/* tech */}
+                    <div className="flex gap-2 flex-wrap">
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90"> Nextjs </h2>
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">TypeScript</h2>
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">Tailwindcss</h2>
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">Recharts</h2>
+                        <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">MUI X</h2>
+                    </div>
+                    {/* button */}
+                    <div className="flex gap-2">
+                        <Link href={'https://github.com/korndoe58/full_stack_ceramic_ecommerce'} target="blank">
+                            <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Code<Image src={'/github.png'} alt="github" width={25} height={25} /></button>
+                        </Link>
+                        <Link href={'https://ceramic-store.vercel.app/'} target="blank">
+                            <button  className=' px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/10 hover:bg-black/30 flex gap-2 justify-center items-center '>Live Demo<Image src={'/link.png'} alt="github" width={25} height={25} /></button>
+                        </Link>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
