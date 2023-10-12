@@ -61,7 +61,7 @@ export default function About() {
                 <p>As an Economics Tutor, I shared my knowledge and expertise, helping students grasp economic principles. I enjoyed simplifying complex concepts and fostering a deep </p>
             </div>
             <div className="flex justify-center">
-                <Link href={'https://drive.google.com/u/0/uc?id=1Bv9A2X3dPv0ZwglwZRmzAaD9E_qhqjAe&export=download'} className="text-white bg-[#814dea] h-max w-max text-lg p-4 rounded-lg">Download CV</Link>
+                <Link href={'https://drive.google.com/u/0/uc?id=1SpAmA6gvu4AE1mgvYiryJdpevO2iG6Au&export=download'} className="text-white bg-[#814dea] h-max w-max text-lg p-4 rounded-lg">Download CV</Link>
             </div>
 
 
