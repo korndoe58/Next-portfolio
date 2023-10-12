@@ -105,7 +105,7 @@ export default function Work() {
                 <div className=" absolute bg-white/80 bottom-0 rounded-b-2xl p-4 w-full flex flex-col gap-2 ">
                     <h1 className=" uppercase font-bold">Movie Store</h1>
                     {/* tech */}
-                    <div className="flex gap-2">
+                    <div className="flex gap-2 flex-wrap">
                         <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90"> Nextjs </h2>
                         <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">Tailwindcss</h2>
                         <h2 className=" font-semibold px-2 py-1 rounded-xl text-black  backdrop-blur-sm bg-white/90">TypeScript</h2>
