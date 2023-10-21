@@ -53,8 +53,8 @@ export default function About() {
                 <p>As a frontend developer, I specialize in creating intuitive and visually appealing user interfaces. I blend my passion for design with strong technical skills to bring digital experiences to life.</p>
             </div>
             <div className="backdrop-blur-sm bg-white/30 p-4 rounded-xl md:p-6">
-                <h1 className="text-xl font-semibold">Ceramic Production Manager</h1>
-                <p>In my previous role as a Ceramic Production Manager, I led teams in crafting beautiful ceramic art pieces. From managing the production process to ensuring quality, I immersed myself in the world of ceramics.</p>
+                <h1 className="text-xl font-semibold">Project Manager</h1>
+                <p>In my previous role as a Ceramic Project Manager, I led teams in crafting beautiful ceramic art pieces. From managing the production process to ensuring quality, I immersed myself in the world of ceramics.</p>
             </div>
             <div className="backdrop-blur-sm bg-white/30 p-4 rounded-xl md:p-6">
                 <h1 className="text-xl font-semibold">Economics Tutor</h1>
